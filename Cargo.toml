@@ -1,0 +1,6 @@
+[package]
+name = "rust_search"
+version = "0.1.0"
+authors = ["nkelly13 <neal.kelly@optum.com>"]
+
+[dependencies]
